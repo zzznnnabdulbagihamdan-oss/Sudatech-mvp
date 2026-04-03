@@ -1,0 +1,94 @@
+{
+  "platform": {
+    "title": "SudaTech Learning Platform",
+    "welcome": "Welcome to SudaTech Smart Platform",
+    "logout": "Logout",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "courses": "Courses",
+    "lessons": "Lessons",
+    "progress": "Progress",
+    "ai_tutor": "Smart Tutor",
+    "community": "Community",
+    "resources": "Resources"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome_message": "Welcome to SudaTech!",
+    "your_progress": "Your Learning Progress",
+    "continue_learning": "Continue Learning",
+    "recent_courses": "Recent Courses",
+    "statistics": "Statistics",
+    "completion_rate": "Completion Rate",
+    "hours_learned": "Hours Learned",
+    "certificates": "Certificates"
+  },
+  "courses": {
+    "title": "Available Courses",
+    "mathematics": "Mathematics",
+    "science": "Science",
+    "arabic": "Arabic Language",
+    "english": "English Language",
+    "social_studies": "Social Studies",
+    "start_course": "Start Course",
+    "continue_course": "Continue Course",
+    "completed": "Completed",
+    "progress": "Progress",
+    "lessons_count": "Number of Lessons"
+  },
+  "lessons": {
+    "title": "Lessons",
+    "select_lesson": "Select a Lesson",
+    "lesson_content": "Lesson Content",
+    "video": "Video",
+    "reading": "Reading",
+    "exercises": "Exercises",
+    "quiz": "Quiz",
+    "complete_lesson": "Complete Lesson",
+    "next_lesson": "Next Lesson",
+    "previous_lesson": "Previous Lesson"
+  },
+  "ai_tutor": {
+    "title": "Smart Tutor",
+    "ask_question": "Ask a Question",
+    "get_help": "Get Help",
+    "explain_concept": "Explain Concept",
+    "solve_problem": "Solve Problem",
+    "practice_exercise": "Practice Exercise",
+    "typing": "Typing...",
+    "send": "Send"
+  },
+  "progress": {
+    "title": "Your Progress",
+    "overall_progress": "Overall Progress",
+    "by_subject": "By Subject",
+    "completed_lessons": "Completed Lessons",
+    "total_lessons": "Total Lessons",
+    "achievements": "Achievements",
+    "badges": "Badges",
+    "certificates": "Certificates"
+  },
+  "community": {
+    "title": "Community",
+    "discussions": "Discussions",
+    "questions": "Questions",
+    "answers": "Answers",
+    "share_knowledge": "Share Knowledge",
+    "help_others": "Help Others",
+    "ask_question": "Ask a Question"
+  },
+  "buttons": {
+    "start": "Start",
+    "continue": "Continue",
+    "complete": "Complete",
+    "submit": "Submit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  }
+}

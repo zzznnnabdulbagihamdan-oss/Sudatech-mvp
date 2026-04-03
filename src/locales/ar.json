@@ -1,0 +1,94 @@
+{
+  "platform": {
+    "title": "منصة سودا-تك التعليمية",
+    "welcome": "أهلاً وسهلاً في منصة سودا-تك الذكية",
+    "logout": "تسجيل الخروج",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات"
+  },
+  "sidebar": {
+    "dashboard": "لوحة التحكم",
+    "courses": "المقررات",
+    "lessons": "الدروس",
+    "progress": "التقدم",
+    "ai_tutor": "المعلم الذكي",
+    "community": "المجتمع",
+    "resources": "الموارد"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "welcome_message": "مرحباً بك في منصة سودا-تك!",
+    "your_progress": "تقدمك التعليمي",
+    "continue_learning": "استمر في التعلم",
+    "recent_courses": "المقررات الأخيرة",
+    "statistics": "الإحصائيات",
+    "completion_rate": "معدل الإنجاز",
+    "hours_learned": "ساعات التعلم",
+    "certificates": "الشهادات"
+  },
+  "courses": {
+    "title": "المقررات المتاحة",
+    "mathematics": "الرياضيات",
+    "science": "العلوم",
+    "arabic": "اللغة العربية",
+    "english": "اللغة الإنجليزية",
+    "social_studies": "الدراسات الاجتماعية",
+    "start_course": "ابدأ المقرر",
+    "continue_course": "استمر في المقرر",
+    "completed": "مكتمل",
+    "progress": "التقدم",
+    "lessons_count": "عدد الدروس"
+  },
+  "lessons": {
+    "title": "الدروس",
+    "select_lesson": "اختر درساً",
+    "lesson_content": "محتوى الدرس",
+    "video": "الفيديو",
+    "reading": "القراءة",
+    "exercises": "التمارين",
+    "quiz": "الاختبار",
+    "complete_lesson": "إكمال الدرس",
+    "next_lesson": "الدرس التالي",
+    "previous_lesson": "الدرس السابق"
+  },
+  "ai_tutor": {
+    "title": "المعلم الذكي",
+    "ask_question": "اسأل سؤالاً",
+    "get_help": "احصل على مساعدة",
+    "explain_concept": "اشرح المفهوم",
+    "solve_problem": "حل المسألة",
+    "practice_exercise": "تمرين عملي",
+    "typing": "جاري الكتابة...",
+    "send": "إرسال"
+  },
+  "progress": {
+    "title": "تقدمك",
+    "overall_progress": "التقدم الإجمالي",
+    "by_subject": "حسب المادة",
+    "completed_lessons": "الدروس المكتملة",
+    "total_lessons": "إجمالي الدروس",
+    "achievements": "الإنجازات",
+    "badges": "الشارات",
+    "certificates": "الشهادات"
+  },
+  "community": {
+    "title": "المجتمع",
+    "discussions": "النقاشات",
+    "questions": "الأسئلة",
+    "answers": "الإجابات",
+    "share_knowledge": "شارك معرفتك",
+    "help_others": "ساعد الآخرين",
+    "ask_question": "اسأل سؤالاً"
+  },
+  "buttons": {
+    "start": "ابدأ",
+    "continue": "استمر",
+    "complete": "أكمل",
+    "submit": "أرسل",
+    "save": "احفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "close": "إغلاق"
+  }
+}

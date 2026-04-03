@@ -1,0 +1,28 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: var(--light);
+}
+
+.app-layout {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.main-content {
+  flex: 1;
+  overflow-y: auto;
+  background: var(--light);
+}
+
+@media (max-width: 768px) {
+  .app-layout {
+    position: relative;
+  }
+
+  .main-content {
+    width: 100%;
+  }
+}
