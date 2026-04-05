@@ -73,6 +73,14 @@
   font-size: 18px;
 }
 
+.user-avatar-img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--secondary);
+}
+
 .logout-btn {
   background: var(--danger);
   color: white;

@@ -30,7 +30,7 @@ export default function Header() {
             {i18n.language === 'ar' ? 'EN' : 'العربية'}
           </button>
           <button className="user-menu">
-            <span className="user-avatar">👤</span>
+            <img src="/profile.jpg" alt="Profile" className="user-avatar-img" />
             <span>{t('platform.profile')}</span>
           </button>
           <button className="logout-btn" title={t('platform.logout')}>
