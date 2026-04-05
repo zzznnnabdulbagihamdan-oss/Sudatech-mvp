@@ -1,16 +1,26 @@
-# React + Vite
+# منصة سودا-تك SudaTech - MVP التعليمية
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+منصة تعليمية ذكية تفاعلية للطلاب السودانيين في المرحلة الثانوية.
 
-Currently, two official plugins are available:
+## 🎯 الهدف
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+توفير منصة تعليمية تفاعلية مع معلم ذكي يساعد الطلاب على التعلم بشكل فعال.
 
-## React Compiler
+## ✨ الميزات الرئيسية
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ **لوحة تحكم احترافية** - عرض تقدم الطالب والإحصائيات
+- ✅ **مقررات دراسية متكاملة** - 5 مواد دراسية رئيسية
+- ✅ **نظام دروس تفاعلي** - دروس مع فيديوهات وتمارين
+- ✅ **معلم ذكي (Suda-AI)** - يجيب على أسئلة الطلاب 24/7
+- ✅ **ثنائي اللغة** - العربية والإنجليزية
+- ✅ **متجاوب** - يعمل على جميع الأجهزة
 
-## Expanding the ESLint configuration
+## 📞 معلومات التواصل
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **البريد الإلكتروني:** zzznnnabdulbagihamdan@gmail.com
+- **الهاتف:** +249 128 020 157
+- **WhatsApp:** +249 965 656 367
+
+---
+
+**تم الإنشاء بـ ❤️ من أجل التعليم في السودان**
